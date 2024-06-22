@@ -1,0 +1,4 @@
+omegaconf
+timm
+torchvision==0.10
+kornia
